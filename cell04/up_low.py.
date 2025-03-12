@@ -1,0 +1,5 @@
+halooo = "Hello My Name Is PETER"
+
+p = halooo.swapcase()
+
+print(p)
